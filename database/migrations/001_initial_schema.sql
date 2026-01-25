@@ -1,0 +1,3 @@
+-- Migration 001: initial schema
+-- See database/schema.sql for full schema; this file can be used by migration runners.
+-- For now, run: sqlite3 data/pass24.db < database/schema.sql
