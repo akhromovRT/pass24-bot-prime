@@ -1,0 +1,678 @@
+2026-01-20 18:59:54,214 - __main__ - INFO - ============================================================
+2026-01-20 18:59:54,214 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-20 18:59:54,214 - __main__ - INFO - Время: 2026-01-20 18:59:54
+2026-01-20 18:59:54,214 - __main__ - INFO - ============================================================
+2026-01-20 18:59:54,214 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-20 18:59:54,214 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-20 18:59:55,012 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 18:59:55,700 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 18:59:55,976 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-20 18:59:56,237 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-20 18:59:56,457 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 18:59:56,749 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-20 18:59:56,982 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-20 18:59:57,247 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-20 18:59:57,523 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-20 18:59:57,790 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-20 18:59:58,381 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-20 18:59:58,644 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-20 18:59:58,925 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-20 18:59:59,175 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-20 18:59:59,403 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 18:59:59,873 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:00,360 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:00,609 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-20 19:00:01,076 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-20 19:00:01,327 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:01,332 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-20 19:00:01,332 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 14
+2026-01-20 19:00:01,332 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-20 19:00:01,803 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:02,308 - bot.knowledge_base - INFO - Загружен файл: FAQ по мобильному придожению.md
+2026-01-20 19:00:02,541 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:03,076 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-20 19:00:03,348 - bot.knowledge_base - INFO - Загружен файл: Диагностика проблем.md
+2026-01-20 19:00:03,634 - bot.knowledge_base - INFO - Загружен файл: Закрытие обращения.md
+2026-01-20 19:00:03,918 - bot.knowledge_base - INFO - Загружен файл: Классификация и приоритизация обращений.md
+2026-01-20 19:00:04,203 - bot.knowledge_base - INFO - Загружен файл: Коммуникация с клиентом.md
+2026-01-20 19:00:04,438 - bot.knowledge_base - INFO - Загружен файл: Консультации по установке продуктов.md
+2026-01-20 19:00:04,722 - bot.knowledge_base - INFO - Загружен файл: Консультирование по общим вопросам (SLA низкий приоритет).md
+2026-01-20 19:00:04,965 - bot.knowledge_base - INFO - Загружен файл: Обработка ошибок программного продукта.md
+2026-01-20 19:00:05,257 - bot.knowledge_base - INFO - Загружен файл: Обработка стандартных обращений (SLA обычный приоритет).md
+2026-01-20 19:00:05,523 - bot.knowledge_base - INFO - Загружен файл: Обработка экстренных обращений (SLA высокий приоритет).md
+2026-01-20 19:00:05,761 - bot.knowledge_base - INFO - Загружен файл: Прием и регистрация обращений.md
+2026-01-20 19:00:06,022 - bot.knowledge_base - INFO - Загружен файл: Прием пожеланий и запросов на улучшение.md
+2026-01-20 19:00:06,282 - bot.knowledge_base - INFO - Загружен файл: Работа с критическими инцидентами.md
+2026-01-20 19:00:06,528 - bot.knowledge_base - INFO - Загружен файл: Работа с обращениями вне рамок поддержки.md
+2026-01-20 19:00:06,772 - bot.knowledge_base - INFO - Загружен файл: Работа с повторными обращениями.md
+2026-01-20 19:00:07,039 - bot.knowledge_base - INFO - Загружен файл: Эскалация в отдел разработки.md
+2026-01-20 19:00:07,041 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/support_data.json
+2026-01-20 19:00:07,041 - bot.knowledge_base - INFO - Обновлены данные техподдержки: 17 файлов, новых: 17
+2026-01-20 19:00:07,042 - __main__ - INFO - 
+Результаты обновления:
+2026-01-20 19:00:07,042 - __main__ - INFO -   Продажи: обновлено=True, файлов=14, новых=14
+2026-01-20 19:00:07,042 - __main__ - INFO -     Новые файлы: README, Воронка продаж облака, Воронка продаж оборудования, Инструкция менеджера по продажам, Методология продаж PASS24, Обоснование методологии, Работа с возражениями, Целевые клиенты и критерии квалификации, PASS24.Key - Мобильный ключ доступа, PASS24.admin - Веб-интерфейс администратора, PASS24.auto - Распознавание номеров, PASS24.online - Базовая платформа, Описание услуги по рекламе, 8 этапов продаж
+2026-01-20 19:00:07,042 - __main__ - INFO -   Техподдержка: обновлено=True, файлов=17, новых=17
+2026-01-20 19:00:07,042 - __main__ - INFO -     Новые файлы: README, FAQ по мобильному придожению, Диагностика проблем, Закрытие обращения, Классификация и приоритизация обращений, Коммуникация с клиентом, Консультации по установке продуктов, Консультирование по общим вопросам (SLA низкий приоритет), Обработка ошибок программного продукта, Обработка стандартных обращений (SLA обычный приоритет), Обработка экстренных обращений (SLA высокий приоритет), Прием и регистрация обращений, Прием пожеланий и запросов на улучшение, Работа с критическими инцидентами, Работа с обращениями вне рамок поддержки, Работа с повторными обращениями, Эскалация в отдел разработки
+2026-01-20 19:00:07,042 - __main__ - INFO - 
+Обновление завершено успешно!
+2026-01-21 13:39:37,638 - __main__ - INFO - ============================================================
+2026-01-21 13:39:37,639 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-21 13:39:37,640 - __main__ - INFO - Время: 2026-01-21 13:39:37
+2026-01-21 13:39:37,640 - __main__ - INFO - ============================================================
+2026-01-21 13:39:37,640 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-21 13:39:37,640 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-21 13:39:38,285 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:38,880 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:39,119 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-21 13:39:39,302 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-21 13:39:39,520 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:39,716 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-21 13:39:39,908 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-21 13:39:40,103 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-21 13:39:40,304 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-21 13:39:40,489 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-21 13:39:40,914 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-21 13:39:41,107 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-21 13:39:41,308 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-21 13:39:41,526 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-21 13:39:41,741 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:42,143 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:42,542 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:42,721 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-21 13:39:43,088 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-21 13:39:43,282 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:43,291 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-21 13:39:43,292 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 0
+2026-01-21 13:39:43,292 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-21 13:39:43,940 - bot.knowledge_base - INFO - Загружен файл: bot-technical-guide.md
+2026-01-21 13:39:44,166 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:44,564 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:44,771 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции и режимов Sigur.md
+2026-01-21 13:39:45,153 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:45,350 - bot.knowledge_base - INFO - Загружен файл: Пропуска и шлагбаумы.md
+2026-01-21 13:39:45,576 - bot.knowledge_base - INFO - Загружен файл: Распознавание номеров.md
+2026-01-21 13:39:45,787 - bot.knowledge_base - INFO - Загружен файл: Регистрация и вход.md
+2026-01-21 13:39:46,175 - bot.knowledge_base - INFO - Загружен файл: Стратегический отчет по автоматизации ТП 2025.md
+2026-01-21 13:39:46,559 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:46,763 - bot.knowledge_base - INFO - Загружен файл: Добавление CVS Авто+ клиенту для мониторинга.md
+2026-01-21 13:39:46,976 - bot.knowledge_base - INFO - Загружен файл: Добалвение СVS Авто+ на другой сети.md
+2026-01-21 13:39:47,437 - bot.knowledge_base - INFO - Загружен файл: Правила проезда на объекте.md
+2026-01-21 13:39:47,623 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по освещению.md
+2026-01-21 13:39:47,964 - bot.knowledge_base - INFO - Загружен файл: Руководство пользователя CVS Авто 190.md
+2026-01-21 13:39:48,179 - bot.knowledge_base - INFO - Загружен файл: Руководство_оператора_CVSCenter_v710.md
+2026-01-21 13:39:48,670 - bot.knowledge_base - INFO - Загружен файл: PASS24.control Web.md
+2026-01-21 13:39:49,045 - bot.knowledge_base - INFO - Загружен файл: PASS24control IP Клиент.md
+2026-01-21 13:39:49,250 - bot.knowledge_base - INFO - Загружен файл: QR код.md
+2026-01-21 13:39:49,442 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:39:50,152 - bot.knowledge_base - INFO - Загружен файл: Б24 Инструкция для жителей по работе с BLE ключами.md
+2026-01-21 13:39:50,374 - bot.knowledge_base - INFO - Загружен файл: Инструкция PASS24.control.md
+2026-01-21 13:39:50,549 - bot.knowledge_base - INFO - Загружен файл: Настройка P24 Desktop.md
+2026-01-21 13:39:50,908 - bot.knowledge_base - INFO - Загружен файл: Настройка QR и пин кода.md
+2026-01-21 13:39:51,110 - bot.knowledge_base - INFO - Загружен файл: Настройка e-mail оповещения.md
+2026-01-21 13:39:51,397 - bot.knowledge_base - INFO - Загружен файл: Настройка оборудования ПО PASS24.online IP Клиент.md
+2026-01-21 13:39:51,451 - bot.knowledge_base - ERROR - Ошибка получения файла База знаний/Тех. поддержка/Инструкции PASS24.control/Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC).md: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20PASS24.control/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5%20%D0%B8%20%D1%8D%D0%BA%D1%81%D0%BF%D0%BB%D1%83%D0%B0%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20(PASS24-400,PASS24-400%20v.2,%20PASS24-400%20EU,%20PASS24-400%20EU%20v.2,%20PASS24-400%20AC).md?ref=main
+2026-01-21 13:39:51,503 - bot.knowledge_base - ERROR - Ошибка получения файла База знаний/Тех. поддержка/Инструкции PASS24.control/Шифрование считываталя.md: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20PASS24.control/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%87%D0%B8%D1%82%D1%8B%D0%B2%D0%B0%D1%82%D0%B0%D0%BB%D1%8F.md?ref=main
+2026-01-21 13:39:51,555 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Инструкции PASS24.online: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20PASS24.online?ref=main
+2026-01-21 13:39:51,605 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Инструкции TRASSIR: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20TRASSIR?ref=main
+2026-01-21 13:39:51,674 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Инструкции ZKTeco: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20ZKTeco?ref=main
+2026-01-21 13:39:51,762 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Инструкции ivideon: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20ivideon?ref=main
+2026-01-21 13:39:51,850 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Интеграция Dahua: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20Dahua?ref=main
+2026-01-21 13:39:51,911 - bot.knowledge_base - ERROR - Ошибка получения файла База знаний/Тех. поддержка/Интеграция с Автомаршал.md: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D1%88%D0%B0%D0%BB.md?ref=main
+2026-01-21 13:39:52,021 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Мобильное приложение : 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20?ref=main
+2026-01-21 13:39:52,074 - bot.knowledge_base - ERROR - Ошибка получения файла База знаний/Тех. поддержка/Процессы технической поддержки.md: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B8.md?ref=main
+2026-01-21 13:39:52,134 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка/Регламенты: 403 Client Error: rate limit exceeded for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0/%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%8B?ref=main
+2026-01-21 13:39:52,147 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/support_data.json
+2026-01-21 13:39:52,148 - bot.knowledge_base - INFO - Обновлены данные техподдержки: 22 файлов, новых: 21
+2026-01-21 13:39:52,149 - __main__ - INFO - 
+Результаты обновления:
+2026-01-21 13:39:52,149 - __main__ - INFO -   Продажи: обновлено=True, файлов=14, новых=0
+2026-01-21 13:39:52,149 - __main__ - INFO -   Техподдержка: обновлено=True, файлов=22, новых=21
+2026-01-21 13:39:52,149 - __main__ - INFO -     Новые файлы: bot-technical-guide, Настройка интеграции и режимов Sigur, Пропуска и шлагбаумы, Распознавание номеров, Регистрация и вход, Стратегический отчет по автоматизации ТП 2025, Добавление CVS Авто+ клиенту для мониторинга, Добалвение СVS Авто+ на другой сети, Правила проезда на объекте, Рекомендации по освещению, Руководство пользователя CVS Авто 190, Руководство_оператора_CVSCenter_v710, PASS24.control Web, PASS24control IP Клиент, QR код, Б24 Инструкция для жителей по работе с BLE ключами, Инструкция PASS24.control, Настройка P24 Desktop, Настройка QR и пин кода, Настройка e-mail оповещения, Настройка оборудования ПО PASS24.online IP Клиент
+2026-01-21 13:39:52,149 - __main__ - INFO - 
+Обновление завершено успешно!
+2026-01-21 13:50:34,654 - __main__ - INFO - ============================================================
+2026-01-21 13:50:34,655 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-21 13:50:34,656 - __main__ - INFO - Время: 2026-01-21 13:50:34
+2026-01-21 13:50:34,656 - __main__ - INFO - ============================================================
+2026-01-21 13:50:34,656 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-21 13:50:34,656 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-21 13:50:35,247 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:35,881 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:36,164 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-21 13:50:36,558 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-21 13:50:36,749 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:37,135 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-21 13:50:37,338 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-21 13:50:37,621 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-21 13:50:38,022 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-21 13:50:38,430 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-21 13:50:38,831 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-21 13:50:39,132 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-21 13:50:39,335 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-21 13:50:39,627 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-21 13:50:39,808 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:40,223 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:40,642 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:40,848 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-21 13:50:41,246 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-21 13:50:41,439 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:41,448 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-21 13:50:41,448 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 0
+2026-01-21 13:50:41,448 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-21 13:50:42,254 - bot.knowledge_base - INFO - Загружен файл: bot-technical-guide.md
+2026-01-21 13:50:42,470 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:42,888 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:43,098 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции и режимов Sigur.md
+2026-01-21 13:50:43,523 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:43,849 - bot.knowledge_base - INFO - Загружен файл: Пропуска и шлагбаумы.md
+2026-01-21 13:50:44,157 - bot.knowledge_base - INFO - Загружен файл: Распознавание номеров.md
+2026-01-21 13:50:44,360 - bot.knowledge_base - INFO - Загружен файл: Регистрация и вход.md
+2026-01-21 13:50:44,773 - bot.knowledge_base - INFO - Загружен файл: Стратегический отчет по автоматизации ТП 2025.md
+2026-01-21 13:50:45,249 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:45,440 - bot.knowledge_base - INFO - Загружен файл: Добавление CVS Авто+ клиенту для мониторинга.md
+2026-01-21 13:50:45,643 - bot.knowledge_base - INFO - Загружен файл: Добалвение СVS Авто+ на другой сети.md
+2026-01-21 13:50:45,945 - bot.knowledge_base - INFO - Загружен файл: Правила проезда на объекте.md
+2026-01-21 13:50:46,155 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по освещению.md
+2026-01-21 13:50:46,475 - bot.knowledge_base - INFO - Загружен файл: Руководство пользователя CVS Авто 190.md
+2026-01-21 13:50:46,783 - bot.knowledge_base - INFO - Загружен файл: Руководство_оператора_CVSCenter_v710.md
+2026-01-21 13:50:47,310 - bot.knowledge_base - INFO - Загружен файл: PASS24.control Web.md
+2026-01-21 13:50:48,068 - bot.knowledge_base - INFO - Загружен файл: PASS24control IP Клиент.md
+2026-01-21 13:50:48,271 - bot.knowledge_base - INFO - Загружен файл: QR код.md
+2026-01-21 13:50:48,480 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:48,668 - bot.knowledge_base - INFO - Загружен файл: Б24 Инструкция для жителей по работе с BLE ключами.md
+2026-01-21 13:50:48,854 - bot.knowledge_base - INFO - Загружен файл: Инструкция PASS24.control.md
+2026-01-21 13:50:49,044 - bot.knowledge_base - INFO - Загружен файл: Настройка P24 Desktop.md
+2026-01-21 13:50:49,248 - bot.knowledge_base - INFO - Загружен файл: Настройка QR и пин кода.md
+2026-01-21 13:50:49,459 - bot.knowledge_base - INFO - Загружен файл: Настройка e-mail оповещения.md
+2026-01-21 13:50:49,679 - bot.knowledge_base - INFO - Загружен файл: Настройка оборудования ПО PASS24.online IP Клиент.md
+2026-01-21 13:50:50,002 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC).md
+2026-01-21 13:50:50,252 - bot.knowledge_base - INFO - Загружен файл: Шифрование считываталя.md
+2026-01-21 13:50:50,987 - bot.knowledge_base - INFO - Загружен файл: Android Mobile PASS24.online NEW.md
+2026-01-21 13:50:51,186 - bot.knowledge_base - INFO - Загружен файл: IOS Mobile PASS24.online NEW.md
+2026-01-21 13:50:51,402 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:51,601 - bot.knowledge_base - INFO - Загружен файл: Telegram БОТ.md
+2026-01-21 13:50:52,274 - bot.knowledge_base - INFO - Загружен файл: Инструкция для Администратора Больница 50.md
+2026-01-21 13:50:52,502 - bot.knowledge_base - INFO - Загружен файл: Инструкция для доверенного лица.md
+2026-01-21 13:50:52,712 - bot.knowledge_base - INFO - Загружен файл: Инструкция для оператора Больница 50.md
+2026-01-21 13:50:52,994 - bot.knowledge_base - INFO - Загружен файл: Инструкция для охраны.md
+2026-01-21 13:50:53,199 - bot.knowledge_base - INFO - Загружен файл: Инструкция заказа пропусков.md
+2026-01-21 13:50:53,439 - bot.knowledge_base - INFO - Загружен файл: Инструкция по Оповещение о заполнении квоты для сотрудников.md
+2026-01-21 13:50:53,656 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 13:50:53,848 - bot.knowledge_base - INFO - Загружен файл: Инструкция по функционалу “Замена автомобиля”.md
+2026-01-21 13:50:54,059 - bot.knowledge_base - INFO - Загружен файл: Как добавить приложение PASS24.admin.md
+2026-01-21 13:50:54,489 - bot.knowledge_base - INFO - Загружен файл: Массовая рассылка пешеходного пропуска.md
+2026-01-21 13:50:54,785 - bot.knowledge_base - INFO - Загружен файл: Описание работы PASS24online.md
+2026-01-21 13:50:54,996 - bot.knowledge_base - INFO - Загружен файл: Создание Доверенности.md
+2026-01-21 13:50:55,592 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:55,815 - bot.knowledge_base - INFO - Загружен файл: Положение стоя, выражение лица и неподвижная поза.md
+2026-01-21 13:50:56,030 - bot.knowledge_base - INFO - Загружен файл: Рекомендации фото для биометрии.md
+2026-01-21 13:50:56,427 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:56,625 - bot.knowledge_base - INFO - Загружен файл: Изменение засвета номера.md
+2026-01-21 13:50:56,858 - bot.knowledge_base - INFO - Загружен файл: Как передать права другим пользователям.md
+2026-01-21 13:50:57,072 - bot.knowledge_base - INFO - Загружен файл: Монтаж и ПНР ANPR камер.md
+2026-01-21 13:50:57,462 - bot.knowledge_base - INFO - Загружен файл: Настройка зоны распознаваиния.md
+2026-01-21 13:50:57,667 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции с IVideon.md
+2026-01-21 13:50:57,896 - bot.knowledge_base - INFO - Загружен файл: Настройка камеры по IP.md
+2026-01-21 13:50:58,109 - bot.knowledge_base - INFO - Загружен файл: Подключение камер ivideon.md
+2026-01-21 13:50:58,318 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по настройке камер при плохих погодных условиях.md
+2026-01-21 13:50:58,520 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке ANPR.md
+2026-01-21 13:50:58,949 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:50:59,189 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 13:50:59,484 - bot.knowledge_base - INFO - Загружен файл: Интеграция с Автомаршал.md
+2026-01-21 13:50:59,881 - bot.knowledge_base - INFO - Загружен файл: FAQ по мобильному придожению.md
+2026-01-21 13:51:00,092 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:00,283 - bot.knowledge_base - INFO - Загружен файл: Процессы технической поддержки.md
+2026-01-21 13:51:00,694 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:00,917 - bot.knowledge_base - INFO - Загружен файл: Диагностика проблем.md
+2026-01-21 13:51:01,219 - bot.knowledge_base - INFO - Загружен файл: Закрытие обращения.md
+2026-01-21 13:51:01,440 - bot.knowledge_base - INFO - Загружен файл: Классификация и приоритизация обращений.md
+2026-01-21 13:51:01,642 - bot.knowledge_base - INFO - Загружен файл: Коммуникация с клиентом.md
+2026-01-21 13:51:01,853 - bot.knowledge_base - INFO - Загружен файл: Консультации по установке продуктов.md
+2026-01-21 13:51:02,059 - bot.knowledge_base - INFO - Загружен файл: Консультирование по общим вопросам (SLA низкий приоритет).md
+2026-01-21 13:51:02,366 - bot.knowledge_base - INFO - Загружен файл: Обработка ошибок программного продукта.md
+2026-01-21 13:51:02,608 - bot.knowledge_base - INFO - Загружен файл: Обработка стандартных обращений (SLA обычный приоритет).md
+2026-01-21 13:51:02,815 - bot.knowledge_base - INFO - Загружен файл: Обработка экстренных обращений (SLA высокий приоритет).md
+2026-01-21 13:51:03,102 - bot.knowledge_base - INFO - Загружен файл: Прием и регистрация обращений.md
+2026-01-21 13:51:03,432 - bot.knowledge_base - INFO - Загружен файл: Прием пожеланий и запросов на улучшение.md
+2026-01-21 13:51:03,655 - bot.knowledge_base - INFO - Загружен файл: Работа с критическими инцидентами.md
+2026-01-21 13:51:03,851 - bot.knowledge_base - INFO - Загружен файл: Работа с обращениями вне рамок поддержки.md
+2026-01-21 13:51:04,070 - bot.knowledge_base - INFO - Загружен файл: Работа с повторными обращениями.md
+2026-01-21 13:51:12,864 - __main__ - INFO - ============================================================
+2026-01-21 13:51:12,867 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-21 13:51:12,867 - __main__ - INFO - Время: 2026-01-21 13:51:12
+2026-01-21 13:51:12,867 - __main__ - INFO - ============================================================
+2026-01-21 13:51:12,867 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-21 13:51:12,867 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-21 13:51:13,429 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:14,212 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:14,594 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-21 13:51:14,982 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-21 13:51:15,163 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:15,736 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-21 13:51:16,025 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-21 13:51:16,324 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-21 13:51:16,626 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-21 13:51:17,018 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-21 13:51:17,612 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-21 13:51:18,019 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-21 13:51:18,420 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-21 13:51:18,633 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-21 13:51:18,834 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:19,220 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:19,741 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:20,026 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-21 13:51:20,445 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-21 13:51:20,634 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:20,643 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-21 13:51:20,643 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 0
+2026-01-21 13:51:20,643 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-21 13:51:21,532 - bot.knowledge_base - INFO - Загружен файл: bot-technical-guide.md
+2026-01-21 13:51:22,170 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:22,800 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:22,995 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции и режимов Sigur.md
+2026-01-21 13:51:23,702 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:23,993 - bot.knowledge_base - INFO - Загружен файл: Пропуска и шлагбаумы.md
+2026-01-21 13:51:24,202 - bot.knowledge_base - INFO - Загружен файл: Распознавание номеров.md
+2026-01-21 13:51:24,397 - bot.knowledge_base - INFO - Загружен файл: Регистрация и вход.md
+2026-01-21 13:51:24,884 - bot.knowledge_base - INFO - Загружен файл: Стратегический отчет по автоматизации ТП 2025.md
+2026-01-21 13:51:25,632 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:25,816 - bot.knowledge_base - INFO - Загружен файл: Добавление CVS Авто+ клиенту для мониторинга.md
+2026-01-21 13:51:26,012 - bot.knowledge_base - INFO - Загружен файл: Добалвение СVS Авто+ на другой сети.md
+2026-01-21 13:51:26,291 - bot.knowledge_base - INFO - Загружен файл: Правила проезда на объекте.md
+2026-01-21 13:51:26,489 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по освещению.md
+2026-01-21 13:51:27,067 - bot.knowledge_base - INFO - Загружен файл: Руководство пользователя CVS Авто 190.md
+2026-01-21 13:51:27,430 - bot.knowledge_base - INFO - Загружен файл: Руководство_оператора_CVSCenter_v710.md
+2026-01-21 13:51:28,042 - bot.knowledge_base - INFO - Загружен файл: PASS24.control Web.md
+2026-01-21 13:51:28,670 - bot.knowledge_base - INFO - Загружен файл: PASS24control IP Клиент.md
+2026-01-21 13:51:28,867 - bot.knowledge_base - INFO - Загружен файл: QR код.md
+2026-01-21 13:51:29,084 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:29,280 - bot.knowledge_base - INFO - Загружен файл: Б24 Инструкция для жителей по работе с BLE ключами.md
+2026-01-21 13:51:29,468 - bot.knowledge_base - INFO - Загружен файл: Инструкция PASS24.control.md
+2026-01-21 13:51:29,677 - bot.knowledge_base - INFO - Загружен файл: Настройка P24 Desktop.md
+2026-01-21 13:51:29,880 - bot.knowledge_base - INFO - Загружен файл: Настройка QR и пин кода.md
+2026-01-21 13:51:30,078 - bot.knowledge_base - INFO - Загружен файл: Настройка e-mail оповещения.md
+2026-01-21 13:51:30,369 - bot.knowledge_base - INFO - Загружен файл: Настройка оборудования ПО PASS24.online IP Клиент.md
+2026-01-21 13:51:30,572 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC).md
+2026-01-21 13:51:30,767 - bot.knowledge_base - INFO - Загружен файл: Шифрование считываталя.md
+2026-01-21 13:51:31,343 - bot.knowledge_base - INFO - Загружен файл: Android Mobile PASS24.online NEW.md
+2026-01-21 13:51:31,627 - bot.knowledge_base - INFO - Загружен файл: IOS Mobile PASS24.online NEW.md
+2026-01-21 13:51:31,810 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:32,007 - bot.knowledge_base - INFO - Загружен файл: Telegram БОТ.md
+2026-01-21 13:51:32,971 - bot.knowledge_base - INFO - Загружен файл: Инструкция для Администратора Больница 50.md
+2026-01-21 13:51:33,152 - bot.knowledge_base - INFO - Загружен файл: Инструкция для доверенного лица.md
+2026-01-21 13:51:33,344 - bot.knowledge_base - INFO - Загружен файл: Инструкция для оператора Больница 50.md
+2026-01-21 13:51:33,543 - bot.knowledge_base - INFO - Загружен файл: Инструкция для охраны.md
+2026-01-21 13:51:33,732 - bot.knowledge_base - INFO - Загружен файл: Инструкция заказа пропусков.md
+2026-01-21 13:51:33,933 - bot.knowledge_base - INFO - Загружен файл: Инструкция по Оповещение о заполнении квоты для сотрудников.md
+2026-01-21 13:51:34,130 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 13:51:34,344 - bot.knowledge_base - INFO - Загружен файл: Инструкция по функционалу “Замена автомобиля”.md
+2026-01-21 13:51:34,545 - bot.knowledge_base - INFO - Загружен файл: Как добавить приложение PASS24.admin.md
+2026-01-21 13:51:34,929 - bot.knowledge_base - INFO - Загружен файл: Массовая рассылка пешеходного пропуска.md
+2026-01-21 13:51:35,277 - bot.knowledge_base - INFO - Загружен файл: Описание работы PASS24online.md
+2026-01-21 13:51:35,457 - bot.knowledge_base - INFO - Загружен файл: Создание Доверенности.md
+2026-01-21 13:51:36,029 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:36,245 - bot.knowledge_base - INFO - Загружен файл: Положение стоя, выражение лица и неподвижная поза.md
+2026-01-21 13:51:36,432 - bot.knowledge_base - INFO - Загружен файл: Рекомендации фото для биометрии.md
+2026-01-21 13:51:36,906 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:37,099 - bot.knowledge_base - INFO - Загружен файл: Изменение засвета номера.md
+2026-01-21 13:51:37,298 - bot.knowledge_base - INFO - Загружен файл: Как передать права другим пользователям.md
+2026-01-21 13:51:37,586 - bot.knowledge_base - INFO - Загружен файл: Монтаж и ПНР ANPR камер.md
+2026-01-21 13:51:37,960 - bot.knowledge_base - INFO - Загружен файл: Настройка зоны распознаваиния.md
+2026-01-21 13:51:38,139 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции с IVideon.md
+2026-01-21 13:51:38,333 - bot.knowledge_base - INFO - Загружен файл: Настройка камеры по IP.md
+2026-01-21 13:51:38,526 - bot.knowledge_base - INFO - Загружен файл: Подключение камер ivideon.md
+2026-01-21 13:51:38,705 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по настройке камер при плохих погодных условиях.md
+2026-01-21 13:51:38,892 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке ANPR.md
+2026-01-21 13:51:39,280 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:39,483 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 13:51:39,689 - bot.knowledge_base - INFO - Загружен файл: Интеграция с Автомаршал.md
+2026-01-21 13:51:40,075 - bot.knowledge_base - INFO - Загружен файл: FAQ по мобильному придожению.md
+2026-01-21 13:51:40,265 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:40,485 - bot.knowledge_base - INFO - Загружен файл: Процессы технической поддержки.md
+2026-01-21 13:51:41,051 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 13:51:41,248 - bot.knowledge_base - INFO - Загружен файл: Диагностика проблем.md
+2026-01-21 13:51:41,554 - bot.knowledge_base - INFO - Загружен файл: Закрытие обращения.md
+2026-01-21 13:51:41,841 - bot.knowledge_base - INFO - Загружен файл: Классификация и приоритизация обращений.md
+2026-01-21 13:51:42,025 - bot.knowledge_base - INFO - Загружен файл: Коммуникация с клиентом.md
+2026-01-21 13:51:42,310 - bot.knowledge_base - INFO - Загружен файл: Консультации по установке продуктов.md
+2026-01-21 13:51:42,507 - bot.knowledge_base - INFO - Загружен файл: Консультирование по общим вопросам (SLA низкий приоритет).md
+2026-01-21 13:51:42,798 - bot.knowledge_base - INFO - Загружен файл: Обработка ошибок программного продукта.md
+2026-01-21 13:51:42,993 - bot.knowledge_base - INFO - Загружен файл: Обработка стандартных обращений (SLA обычный приоритет).md
+2026-01-21 13:51:43,203 - bot.knowledge_base - INFO - Загружен файл: Обработка экстренных обращений (SLA высокий приоритет).md
+2026-01-21 13:51:43,396 - bot.knowledge_base - INFO - Загружен файл: Прием и регистрация обращений.md
+2026-01-21 13:51:43,687 - bot.knowledge_base - INFO - Загружен файл: Прием пожеланий и запросов на улучшение.md
+2026-01-21 13:51:43,889 - bot.knowledge_base - INFO - Загружен файл: Работа с критическими инцидентами.md
+2026-01-21 13:51:44,189 - bot.knowledge_base - INFO - Загружен файл: Работа с обращениями вне рамок поддержки.md
+2026-01-21 13:51:44,379 - bot.knowledge_base - INFO - Загружен файл: Работа с повторными обращениями.md
+2026-01-21 13:51:44,664 - bot.knowledge_base - INFO - Загружен файл: Эскалация в отдел разработки.md
+2026-01-21 13:51:44,684 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/support_data.json
+2026-01-21 13:51:44,685 - bot.knowledge_base - INFO - Обновлены данные техподдержки: 68 файлов, новых: 46
+2026-01-21 13:51:44,687 - __main__ - INFO - 
+Результаты обновления:
+2026-01-21 13:51:44,687 - __main__ - INFO -   Продажи: обновлено=True, файлов=14, новых=0
+2026-01-21 13:51:44,688 - __main__ - INFO -   Техподдержка: обновлено=True, файлов=68, новых=46
+2026-01-21 13:51:44,688 - __main__ - INFO -     Новые файлы: Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC), Шифрование считываталя, Android Mobile PASS24.online NEW, IOS Mobile PASS24.online NEW, Telegram БОТ, Инструкция для Администратора Больница 50, Инструкция для доверенного лица, Инструкция для оператора Больница 50, Инструкция для охраны, Инструкция заказа пропусков, Инструкция по Оповещение о заполнении квоты для сотрудников, Инструкция по настройке интеграции с камерой, Инструкция по функционалу “Замена автомобиля”, Как добавить приложение PASS24.admin, Массовая рассылка пешеходного пропуска, Описание работы PASS24online, Создание Доверенности, Положение стоя, выражение лица и неподвижная поза, Рекомендации фото для биометрии, Изменение засвета номера, Как передать права другим пользователям, Монтаж и ПНР ANPR камер, Настройка зоны распознаваиния, Настройка интеграции с IVideon, Настройка камеры по IP, Подключение камер ivideon, Рекомендации по настройке камер при плохих погодных условиях, Руководство по установке ANPR, Интеграция с Автомаршал, FAQ по мобильному придожению, Процессы технической поддержки, Диагностика проблем, Закрытие обращения, Классификация и приоритизация обращений, Коммуникация с клиентом, Консультации по установке продуктов, Консультирование по общим вопросам (SLA низкий приоритет), Обработка ошибок программного продукта, Обработка стандартных обращений (SLA обычный приоритет), Обработка экстренных обращений (SLA высокий приоритет), Прием и регистрация обращений, Прием пожеланий и запросов на улучшение, Работа с критическими инцидентами, Работа с обращениями вне рамок поддержки, Работа с повторными обращениями, Эскалация в отдел разработки
+2026-01-21 13:51:44,688 - __main__ - INFO - 
+Обновление завершено успешно!
+2026-01-21 14:07:32,260 - __main__ - INFO - ============================================================
+2026-01-21 14:07:32,262 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-21 14:07:32,262 - __main__ - INFO - Время: 2026-01-21 14:07:32
+2026-01-21 14:07:32,262 - __main__ - INFO - ============================================================
+2026-01-21 14:07:32,262 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-21 14:07:32,262 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-21 14:07:32,890 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:33,472 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:33,766 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-21 14:07:33,974 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-21 14:07:34,180 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:34,561 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-21 14:07:34,854 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-21 14:07:35,159 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-21 14:07:35,531 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-21 14:07:35,909 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-21 14:07:36,377 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-21 14:07:36,658 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-21 14:07:36,862 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-21 14:07:37,261 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-21 14:07:37,457 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:37,963 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:38,618 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:38,903 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-21 14:07:39,307 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-21 14:07:39,529 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:39,535 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-21 14:07:39,535 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 0
+2026-01-21 14:07:39,535 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-21 14:07:40,134 - bot.knowledge_base - INFO - Загружен файл: bot-technical-guide.md
+2026-01-21 14:07:40,341 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:40,708 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:40,904 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции и режимов Sigur.md
+2026-01-21 14:07:41,497 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:41,689 - bot.knowledge_base - INFO - Загружен файл: Пропуска и шлагбаумы.md
+2026-01-21 14:07:42,160 - bot.knowledge_base - INFO - Загружен файл: Распознавание номеров.md
+2026-01-21 14:07:42,465 - bot.knowledge_base - INFO - Загружен файл: Регистрация и вход.md
+2026-01-21 14:07:42,949 - bot.knowledge_base - INFO - Загружен файл: Стратегический отчет по автоматизации ТП 2025.md
+2026-01-21 14:07:43,350 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:43,541 - bot.knowledge_base - INFO - Загружен файл: Добавление CVS Авто+ клиенту для мониторинга.md
+2026-01-21 14:07:43,729 - bot.knowledge_base - INFO - Загружен файл: Добалвение СVS Авто+ на другой сети.md
+2026-01-21 14:07:43,914 - bot.knowledge_base - INFO - Загружен файл: Правила проезда на объекте.md
+2026-01-21 14:07:44,100 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по освещению.md
+2026-01-21 14:07:44,512 - bot.knowledge_base - INFO - Загружен файл: Руководство пользователя CVS Авто 190.md
+2026-01-21 14:07:44,911 - bot.knowledge_base - INFO - Загружен файл: Руководство_оператора_CVSCenter_v710.md
+2026-01-21 14:07:45,686 - bot.knowledge_base - INFO - Загружен файл: PASS24.control Web.md
+2026-01-21 14:07:46,200 - bot.knowledge_base - INFO - Загружен файл: PASS24control IP Клиент.md
+2026-01-21 14:07:46,397 - bot.knowledge_base - INFO - Загружен файл: QR код.md
+2026-01-21 14:07:46,583 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:46,776 - bot.knowledge_base - INFO - Загружен файл: Б24 Инструкция для жителей по работе с BLE ключами.md
+2026-01-21 14:07:47,006 - bot.knowledge_base - INFO - Загружен файл: Инструкция PASS24.control.md
+2026-01-21 14:07:47,205 - bot.knowledge_base - INFO - Загружен файл: Настройка P24 Desktop.md
+2026-01-21 14:07:47,391 - bot.knowledge_base - INFO - Загружен файл: Настройка QR и пин кода.md
+2026-01-21 14:07:47,608 - bot.knowledge_base - INFO - Загружен файл: Настройка e-mail оповещения.md
+2026-01-21 14:07:47,809 - bot.knowledge_base - INFO - Загружен файл: Настройка оборудования ПО PASS24.online IP Клиент.md
+2026-01-21 14:07:48,111 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC).md
+2026-01-21 14:07:48,331 - bot.knowledge_base - INFO - Загружен файл: Шифрование считываталя.md
+2026-01-21 14:07:48,802 - bot.knowledge_base - INFO - Загружен файл: Android Mobile PASS24.online NEW.md
+2026-01-21 14:07:49,010 - bot.knowledge_base - INFO - Загружен файл: IOS Mobile PASS24.online NEW.md
+2026-01-21 14:07:49,200 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:49,392 - bot.knowledge_base - INFO - Загружен файл: Telegram БОТ.md
+2026-01-21 14:07:50,165 - bot.knowledge_base - INFO - Загружен файл: Инструкция для Администратора Больница 50.md
+2026-01-21 14:07:50,363 - bot.knowledge_base - INFO - Загружен файл: Инструкция для доверенного лица.md
+2026-01-21 14:07:50,569 - bot.knowledge_base - INFO - Загружен файл: Инструкция для оператора Больница 50.md
+2026-01-21 14:07:50,759 - bot.knowledge_base - INFO - Загружен файл: Инструкция для охраны.md
+2026-01-21 14:07:50,963 - bot.knowledge_base - INFO - Загружен файл: Инструкция заказа пропусков.md
+2026-01-21 14:07:51,164 - bot.knowledge_base - INFO - Загружен файл: Инструкция по Оповещение о заполнении квоты для сотрудников.md
+2026-01-21 14:07:51,359 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 14:07:51,577 - bot.knowledge_base - INFO - Загружен файл: Инструкция по функционалу “Замена автомобиля”.md
+2026-01-21 14:07:51,768 - bot.knowledge_base - INFO - Загружен файл: Как добавить приложение PASS24.admin.md
+2026-01-21 14:07:52,170 - bot.knowledge_base - INFO - Загружен файл: Массовая рассылка пешеходного пропуска.md
+2026-01-21 14:07:52,558 - bot.knowledge_base - INFO - Загружен файл: Описание работы PASS24online.md
+2026-01-21 14:07:52,757 - bot.knowledge_base - INFO - Загружен файл: Создание Доверенности.md
+2026-01-21 14:07:53,316 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:53,503 - bot.knowledge_base - INFO - Загружен файл: Положение стоя, выражение лица и неподвижная поза.md
+2026-01-21 14:07:53,707 - bot.knowledge_base - INFO - Загружен файл: Рекомендации фото для биометрии.md
+2026-01-21 14:07:54,187 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:54,586 - bot.knowledge_base - INFO - Загружен файл: Изменение засвета номера.md
+2026-01-21 14:07:54,782 - bot.knowledge_base - INFO - Загружен файл: Как передать права другим пользователям.md
+2026-01-21 14:07:54,975 - bot.knowledge_base - INFO - Загружен файл: Монтаж и ПНР ANPR камер.md
+2026-01-21 14:07:55,180 - bot.knowledge_base - INFO - Загружен файл: Настройка зоны распознаваиния.md
+2026-01-21 14:07:55,383 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции с IVideon.md
+2026-01-21 14:07:55,560 - bot.knowledge_base - INFO - Загружен файл: Настройка камеры по IP.md
+2026-01-21 14:07:55,766 - bot.knowledge_base - INFO - Загружен файл: Подключение камер ivideon.md
+2026-01-21 14:07:56,020 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по настройке камер при плохих погодных условиях.md
+2026-01-21 14:07:56,231 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке ANPR.md
+2026-01-21 14:07:56,667 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:56,903 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-21 14:07:57,171 - bot.knowledge_base - INFO - Загружен файл: Интеграция с Автомаршал.md
+2026-01-21 14:07:57,628 - bot.knowledge_base - INFO - Загружен файл: FAQ по мобильному придожению.md
+2026-01-21 14:07:57,820 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:58,018 - bot.knowledge_base - INFO - Загружен файл: Процессы технической поддержки.md
+2026-01-21 14:07:58,838 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-21 14:07:59,125 - bot.knowledge_base - INFO - Загружен файл: Диагностика проблем.md
+2026-01-21 14:07:59,416 - bot.knowledge_base - INFO - Загружен файл: Закрытие обращения.md
+2026-01-21 14:07:59,605 - bot.knowledge_base - INFO - Загружен файл: Классификация и приоритизация обращений.md
+2026-01-21 14:07:59,911 - bot.knowledge_base - INFO - Загружен файл: Коммуникация с клиентом.md
+2026-01-21 14:08:00,190 - bot.knowledge_base - INFO - Загружен файл: Консультации по установке продуктов.md
+2026-01-21 14:08:00,471 - bot.knowledge_base - INFO - Загружен файл: Консультирование по общим вопросам (SLA низкий приоритет).md
+2026-01-21 14:08:00,709 - bot.knowledge_base - INFO - Загружен файл: Обработка ошибок программного продукта.md
+2026-01-21 14:08:00,906 - bot.knowledge_base - INFO - Загружен файл: Обработка стандартных обращений (SLA обычный приоритет).md
+2026-01-21 14:08:01,222 - bot.knowledge_base - INFO - Загружен файл: Обработка экстренных обращений (SLA высокий приоритет).md
+2026-01-21 14:08:01,694 - bot.knowledge_base - INFO - Загружен файл: Прием и регистрация обращений.md
+2026-01-21 14:08:01,977 - bot.knowledge_base - INFO - Загружен файл: Прием пожеланий и запросов на улучшение.md
+2026-01-21 14:08:02,282 - bot.knowledge_base - INFO - Загружен файл: Работа с критическими инцидентами.md
+2026-01-21 14:08:02,583 - bot.knowledge_base - INFO - Загружен файл: Работа с обращениями вне рамок поддержки.md
+2026-01-21 14:08:02,887 - bot.knowledge_base - INFO - Загружен файл: Работа с повторными обращениями.md
+2026-01-21 14:08:03,187 - bot.knowledge_base - INFO - Загружен файл: Эскалация в отдел разработки.md
+2026-01-21 14:08:03,213 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/support_data.json
+2026-01-21 14:08:03,213 - bot.knowledge_base - INFO - Обновлены данные техподдержки: 68 файлов, новых: 0
+2026-01-21 14:08:03,215 - __main__ - INFO - 
+Результаты обновления:
+2026-01-21 14:08:03,215 - __main__ - INFO -   Продажи: обновлено=True, файлов=14, новых=0
+2026-01-21 14:08:03,215 - __main__ - INFO -   Техподдержка: обновлено=True, файлов=68, новых=0
+2026-01-21 14:08:03,215 - __main__ - INFO - 
+Обновление завершено успешно!
+2026-01-25 14:21:49,733 - __main__ - INFO - ============================================================
+2026-01-25 14:21:49,733 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-25 14:21:49,734 - __main__ - INFO - Время: 2026-01-25 14:21:49
+2026-01-25 14:21:49,734 - __main__ - INFO - ============================================================
+2026-01-25 14:21:49,734 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-25 14:21:49,734 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-25 14:21:50,245 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/ОП: 401 Client Error: Unauthorized for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%9E%D0%9F?ref=main
+2026-01-25 14:21:50,245 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-25 14:21:50,680 - bot.knowledge_base - ERROR - Ошибка получения списка файлов в База знаний/Тех. поддержка: 401 Client Error: Unauthorized for url: https://api.github.com/repos/akhromovRT/pass24-knowlege-base/contents/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A2%D0%B5%D1%85.%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0?ref=main
+2026-01-25 14:21:50,683 - __main__ - INFO - 
+Результаты обновления:
+2026-01-25 14:21:50,683 - __main__ - INFO -   Продажи: обновлено=False, файлов=0, новых=0
+2026-01-25 14:21:50,683 - __main__ - INFO -   Техподдержка: обновлено=False, файлов=0, новых=0
+2026-01-25 14:21:50,683 - __main__ - INFO - 
+Обновление завершено успешно!
+2026-01-25 14:23:50,862 - __main__ - INFO - ============================================================
+2026-01-25 14:23:50,864 - __main__ - INFO - Запуск автоматического обновления базы знаний
+2026-01-25 14:23:50,864 - __main__ - INFO - Время: 2026-01-25 14:23:50
+2026-01-25 14:23:50,864 - __main__ - INFO - ============================================================
+2026-01-25 14:23:50,864 - bot.knowledge_base - INFO - Начало обновления базы знаний...
+2026-01-25 14:23:50,864 - bot.knowledge_base - INFO - Загрузка данных о продажах из База знаний/ОП
+2026-01-25 14:23:50,864 - bot.knowledge_base - INFO - Клонирование репозитория git@github.com:akhromovRT/pass24-knowlege-base.git...
+2026-01-25 14:24:01,041 - bot.knowledge_base - INFO - Репозиторий успешно клонирован
+2026-01-25 14:24:01,042 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:03,330 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:03,331 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:05,532 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:05,534 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:05,535 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:05,535 - bot.knowledge_base - INFO - Загружен файл: Описание услуги по рекламе.md
+2026-01-25 14:24:05,536 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:07,775 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:07,776 - bot.knowledge_base - INFO - Загружен файл: 8 этапов продаж.md
+2026-01-25 14:24:07,777 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:07,777 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:10,027 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:10,027 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:12,283 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:12,285 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж облака.md
+2026-01-25 14:24:12,286 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:12,286 - bot.knowledge_base - INFO - Загружен файл: Воронка продаж оборудования.md
+2026-01-25 14:24:12,287 - bot.knowledge_base - INFO - Загружен файл: Работа с возражениями.md
+2026-01-25 14:24:12,288 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:12,288 - bot.knowledge_base - INFO - Загружен файл: Инструкция менеджера по продажам.md
+2026-01-25 14:24:12,289 - bot.knowledge_base - INFO - Загружен файл: Обоснование методологии.md
+2026-01-25 14:24:12,289 - bot.knowledge_base - INFO - Загружен файл: Методология продаж PASS24.md
+2026-01-25 14:24:12,290 - bot.knowledge_base - INFO - Загружен файл: Целевые клиенты и критерии квалификации.md
+2026-01-25 14:24:12,291 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:12,291 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:14,519 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:14,521 - bot.knowledge_base - INFO - Загружен файл: PASS24.auto - Распознавание номеров.md
+2026-01-25 14:24:14,523 - bot.knowledge_base - INFO - Загружен файл: PASS24.admin - Веб-интерфейс администратора.md
+2026-01-25 14:24:14,524 - bot.knowledge_base - INFO - Загружен файл: PASS24.Key - Мобильный ключ доступа.md
+2026-01-25 14:24:14,527 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:14,528 - bot.knowledge_base - INFO - Загружен файл: PASS24.online - Базовая платформа.md
+2026-01-25 14:24:14,533 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/sales_data.json
+2026-01-25 14:24:14,533 - bot.knowledge_base - INFO - Обновлены данные о продажах: 14 файлов, новых: 0
+2026-01-25 14:24:14,533 - bot.knowledge_base - INFO - Загрузка данных техподдержки из База знаний/Тех. поддержка
+2026-01-25 14:24:14,534 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:16,769 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:16,771 - bot.knowledge_base - INFO - Загружен файл: Интеграция с Автомаршал.md
+2026-01-25 14:24:16,771 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:18,877 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:18,879 - bot.knowledge_base - INFO - Загружен файл: Регистрация и вход.md
+2026-01-25 14:24:18,879 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:18,880 - bot.knowledge_base - INFO - Загружен файл: Распознавание номеров.md
+2026-01-25 14:24:18,880 - bot.knowledge_base - INFO - Загружен файл: Пропуска и шлагбаумы.md
+2026-01-25 14:24:18,880 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:21,139 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:21,140 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:23,351 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:23,353 - bot.knowledge_base - INFO - Загружен файл: PASS24.control Web.md
+2026-01-25 14:24:23,353 - bot.knowledge_base - INFO - Загружен файл: Инструкция PASS24.control.md
+2026-01-25 14:24:23,354 - bot.knowledge_base - INFO - Загружен файл: QR код.md
+2026-01-25 14:24:23,354 - bot.knowledge_base - INFO - Загружен файл: Б24 Инструкция для жителей по работе с BLE ключами.md
+2026-01-25 14:24:23,355 - bot.knowledge_base - INFO - Загружен файл: Настройка P24 Desktop.md
+2026-01-25 14:24:23,355 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:23,356 - bot.knowledge_base - INFO - Загружен файл: Настройка e-mail оповещения.md
+2026-01-25 14:24:23,357 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке и эксплуатации (PASS24-400,PASS24-400 v.2, PASS24-400 EU, PASS24-400 EU v.2, PASS24-400 AC).md
+2026-01-25 14:24:23,358 - bot.knowledge_base - INFO - Загружен файл: PASS24control IP Клиент.md
+2026-01-25 14:24:23,359 - bot.knowledge_base - INFO - Загружен файл: Настройка QR и пин кода.md
+2026-01-25 14:24:23,359 - bot.knowledge_base - INFO - Загружен файл: Настройка оборудования ПО PASS24.online IP Клиент.md
+2026-01-25 14:24:23,360 - bot.knowledge_base - INFO - Загружен файл: Шифрование считываталя.md
+2026-01-25 14:24:23,360 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:25,592 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:25,593 - bot.knowledge_base - INFO - Загружен файл: Прием пожеланий и запросов на улучшение.md
+2026-01-25 14:24:25,594 - bot.knowledge_base - INFO - Загружен файл: Обработка экстренных обращений (SLA высокий приоритет).md
+2026-01-25 14:24:25,594 - bot.knowledge_base - INFO - Загружен файл: Классификация и приоритизация обращений.md
+2026-01-25 14:24:25,595 - bot.knowledge_base - INFO - Загружен файл: Обработка ошибок программного продукта.md
+2026-01-25 14:24:25,595 - bot.knowledge_base - INFO - Загружен файл: Эскалация в отдел разработки.md
+2026-01-25 14:24:25,596 - bot.knowledge_base - INFO - Загружен файл: Обработка стандартных обращений (SLA обычный приоритет).md
+2026-01-25 14:24:25,596 - bot.knowledge_base - INFO - Загружен файл: Консультирование по общим вопросам (SLA низкий приоритет).md
+2026-01-25 14:24:25,596 - bot.knowledge_base - INFO - Загружен файл: Прием и регистрация обращений.md
+2026-01-25 14:24:25,597 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:25,597 - bot.knowledge_base - INFO - Загружен файл: Консультации по установке продуктов.md
+2026-01-25 14:24:25,598 - bot.knowledge_base - INFO - Загружен файл: Коммуникация с клиентом.md
+2026-01-25 14:24:25,598 - bot.knowledge_base - INFO - Загружен файл: Работа с критическими инцидентами.md
+2026-01-25 14:24:25,599 - bot.knowledge_base - INFO - Загружен файл: Диагностика проблем.md
+2026-01-25 14:24:25,599 - bot.knowledge_base - INFO - Загружен файл: Закрытие обращения.md
+2026-01-25 14:24:25,600 - bot.knowledge_base - INFO - Загружен файл: Работа с повторными обращениями.md
+2026-01-25 14:24:25,600 - bot.knowledge_base - INFO - Загружен файл: Работа с обращениями вне рамок поддержки.md
+2026-01-25 14:24:25,600 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:27,673 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:27,674 - bot.knowledge_base - INFO - Загружен файл: Стратегический отчет по автоматизации ТП 2025.md
+2026-01-25 14:24:27,674 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:27,675 - bot.knowledge_base - INFO - Загружен файл: Процессы технической поддержки.md
+2026-01-25 14:24:27,675 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:29,905 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:29,906 - bot.knowledge_base - INFO - Загружен файл: bot-technical-guide.md
+2026-01-25 14:24:29,906 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:32,144 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:32,146 - bot.knowledge_base - INFO - Загружен файл: Android Mobile PASS24.online NEW.md
+2026-01-25 14:24:32,146 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:34,400 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:34,400 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:36,458 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:36,460 - bot.knowledge_base - INFO - Загружен файл: 1. Пропуск для пешехода.md
+2026-01-25 14:24:36,461 - bot.knowledge_base - INFO - Загружен файл: 7. Запрос на доверенность.md
+2026-01-25 14:24:36,461 - bot.knowledge_base - INFO - Загружен файл: 6. Мои пропуска.md
+2026-01-25 14:24:36,462 - bot.knowledge_base - INFO - Загружен файл: 3. Приглашение.md
+2026-01-25 14:24:36,463 - bot.knowledge_base - INFO - Загружен файл: 5. Запрос на постоянный пешеходный пропуск.md
+2026-01-25 14:24:36,463 - bot.knowledge_base - INFO - Загружен файл: 4. Запрос на постоянный автомобильный пропуск.md
+2026-01-25 14:24:36,464 - bot.knowledge_base - INFO - Загружен файл: 8. Запрос на новый адрес.md
+2026-01-25 14:24:36,464 - bot.knowledge_base - INFO - Загружен файл: 2. Пропуск на автомобиль.md
+2026-01-25 14:24:36,464 - bot.knowledge_base - INFO - Загружен файл: FAQ по мобильному придожению.md
+2026-01-25 14:24:36,465 - bot.knowledge_base - INFO - Загружен файл: 9. Запрос написать в УК.md
+2026-01-25 14:24:36,465 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:38,680 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:38,681 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:40,799 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:40,802 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:43,044 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:43,045 - bot.knowledge_base - INFO - Загружен файл: Описание работы PASS24online.md
+2026-01-25 14:24:43,046 - bot.knowledge_base - INFO - Загружен файл: Инструкция для оператора Больница 50.md
+2026-01-25 14:24:43,046 - bot.knowledge_base - INFO - Загружен файл: Как добавить приложение PASS24.admin.md
+2026-01-25 14:24:43,047 - bot.knowledge_base - INFO - Загружен файл: Инструкция по Оповещение о заполнении квоты для сотрудников.md
+2026-01-25 14:24:43,047 - bot.knowledge_base - INFO - Загружен файл: Создание Доверенности.md
+2026-01-25 14:24:43,047 - bot.knowledge_base - INFO - Загружен файл: Инструкция для охраны.md
+2026-01-25 14:24:43,048 - bot.knowledge_base - INFO - Загружен файл: Инструкция для доверенного лица.md
+2026-01-25 14:24:43,048 - bot.knowledge_base - INFO - Загружен файл: Инструкция для Администратора Больница 50.md
+2026-01-25 14:24:43,049 - bot.knowledge_base - INFO - Загружен файл: Инструкция заказа пропусков.md
+2026-01-25 14:24:43,049 - bot.knowledge_base - INFO - Загружен файл: Инструкция по функционалу “Замена автомобиля”.md
+2026-01-25 14:24:43,049 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-25 14:24:43,050 - bot.knowledge_base - INFO - Загружен файл: Модуль Пропуска.md
+2026-01-25 14:24:43,050 - bot.knowledge_base - INFO - Загружен файл: Модуль Доверенности.md
+2026-01-25 14:24:43,051 - bot.knowledge_base - INFO - Загружен файл: Модуль Адреса.md
+2026-01-25 14:24:43,052 - bot.knowledge_base - INFO - Загружен файл: Модуль Сотрудники.md
+2026-01-25 14:24:43,052 - bot.knowledge_base - INFO - Загружен файл: Модуль Права.md
+2026-01-25 14:24:43,053 - bot.knowledge_base - INFO - Загружен файл: Модуль Объекты.md
+2026-01-25 14:24:43,053 - bot.knowledge_base - INFO - Загружен файл: Модуль Рассылка.md
+2026-01-25 14:24:43,054 - bot.knowledge_base - INFO - Загружен файл: Модуль Пользователи.md
+2026-01-25 14:24:43,054 - bot.knowledge_base - INFO - Загружен файл: Модуль Запросы.md
+2026-01-25 14:24:43,055 - bot.knowledge_base - INFO - Загружен файл: IOS Mobile PASS24.online NEW.md
+2026-01-25 14:24:43,055 - bot.knowledge_base - INFO - Загружен файл: Telegram БОТ.md
+2026-01-25 14:24:43,055 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:45,365 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:45,366 - bot.knowledge_base - INFO - Загружен файл: Массовая рассылка пешеходного пропуска.md
+2026-01-25 14:24:45,367 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:45,367 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:47,577 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:47,578 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:49,804 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:49,805 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:49,805 - bot.knowledge_base - INFO - Загружен файл: Инструкция по настройке интеграции с камерой.md
+2026-01-25 14:24:49,805 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:52,091 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:52,092 - bot.knowledge_base - INFO - Загружен файл: Правила проезда на объекте.md
+2026-01-25 14:24:52,092 - bot.knowledge_base - INFO - Загружен файл: Добалвение СVS Авто+ на другой сети.md
+2026-01-25 14:24:52,092 - bot.knowledge_base - INFO - Загружен файл: Добавление CVS Авто+ клиенту для мониторинга.md
+2026-01-25 14:24:52,093 - bot.knowledge_base - INFO - Загружен файл: Руководство_оператора_CVSCenter_v710.md
+2026-01-25 14:24:52,093 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:52,094 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по освещению.md
+2026-01-25 14:24:52,094 - bot.knowledge_base - INFO - Загружен файл: Руководство пользователя CVS Авто 190.md
+2026-01-25 14:24:52,095 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:54,333 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:54,335 - bot.knowledge_base - INFO - Загружен файл: Монтаж и ПНР ANPR камер.md
+2026-01-25 14:24:54,336 - bot.knowledge_base - INFO - Загружен файл: Настройка камеры по IP.md
+2026-01-25 14:24:54,336 - bot.knowledge_base - INFO - Загружен файл: Рекомендации по настройке камер при плохих погодных условиях.md
+2026-01-25 14:24:54,337 - bot.knowledge_base - INFO - Загружен файл: Подключение камер ivideon.md
+2026-01-25 14:24:54,338 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:54,338 - bot.knowledge_base - INFO - Загружен файл: Настройка зоны распознаваиния.md
+2026-01-25 14:24:54,339 - bot.knowledge_base - INFO - Загружен файл: Изменение засвета номера.md
+2026-01-25 14:24:54,339 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции с IVideon.md
+2026-01-25 14:24:54,340 - bot.knowledge_base - INFO - Загружен файл: Как передать права другим пользователям.md
+2026-01-25 14:24:54,341 - bot.knowledge_base - INFO - Загружен файл: Руководство по установке ANPR.md
+2026-01-25 14:24:54,341 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:56,617 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:56,618 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:24:58,862 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:24:58,863 - bot.knowledge_base - INFO - Загружен файл: Настройка интеграции и режимов Sigur.md
+2026-01-25 14:24:58,863 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:24:58,863 - bot.knowledge_base - INFO - Обновление репозитория...
+2026-01-25 14:25:01,132 - bot.knowledge_base - INFO - Репозиторий успешно обновлён
+2026-01-25 14:25:01,133 - bot.knowledge_base - INFO - Загружен файл: README.md
+2026-01-25 14:25:01,134 - bot.knowledge_base - INFO - Загружен файл: Рекомендации фото для биометрии.md
+2026-01-25 14:25:01,134 - bot.knowledge_base - INFO - Загружен файл: Положение стоя, выражение лица и неподвижная поза.md
+2026-01-25 14:25:01,150 - bot.knowledge_base - INFO - Данные сохранены в /Users/alexeykhromov/Documents/Документы — MacBook Pro — Alexey/Cursor/PASS24BOT/data/knowledge_base/support_data.json
+2026-01-25 14:25:01,150 - bot.knowledge_base - INFO - Обновлены данные техподдержки: 86 файлов, новых: 18
+2026-01-25 14:25:01,151 - __main__ - INFO - 
+Результаты обновления:
+2026-01-25 14:25:01,151 - __main__ - INFO -   Продажи: обновлено=True, файлов=14, новых=0
+2026-01-25 14:25:01,151 - __main__ - INFO -   Техподдержка: обновлено=True, файлов=86, новых=18
+2026-01-25 14:25:01,151 - __main__ - INFO -     Новые файлы: 1. Пропуск для пешехода, 7. Запрос на доверенность, 6. Мои пропуска, 3. Приглашение, 5. Запрос на постоянный пешеходный пропуск, 4. Запрос на постоянный автомобильный пропуск, 8. Запрос на новый адрес, 2. Пропуск на автомобиль, 9. Запрос написать в УК, Модуль Пропуска, Модуль Доверенности, Модуль Адреса, Модуль Сотрудники, Модуль Права, Модуль Объекты, Модуль Рассылка, Модуль Пользователи, Модуль Запросы
+2026-01-25 14:25:01,151 - __main__ - INFO - 
+Обновление завершено успешно!
